@@ -1059,9 +1059,9 @@ def Authkey():
 		A=str(input(' 👉 Masukan Licensi : '))
 		if not A:cetak(panel('[bold white]Input Lisensi Tidak Boleh Kosong. Silakan Masukkan Lisensi.',width=90,title=f"[[green]  [/]]",padding=(0,2),style=f"bold blue"))
 		with Halo(text='Loading..💤',spinner='star'):B=Key.activate(token=auth_key_licensi,rsa_pub_key=xiao_public_token,product_id='28137',key=A,machine_code=Helpers.GetMachineCode())
-		if B[0]is _B or not Helpers.IsOnRightMachine(B[0]):cetak(panel('[bold white]                                   Server [bold green]150 [bold red]User Offline ',width=90,title=f"[[green] Arif-Sensei[/]]",padding=(0,2),style=f"bold red"));time.sleep(3);os.system('xdg-open https://wa.me/6285767630210?text=Bang+Mau+Buy+License+Crack ')
+		if B[0]is _B or not Helpers.IsOnRightMachine(B[0]):cetak(panel('[bold white]                                   Server [bold green]150 [bold red]User Offline ',width=90,title=f"[[green] Gerrad-Code[/]]",padding=(0,2),style=f"bold red"));time.sleep(3);os.system('xdg-open https://wa.me/6285767630210?text=Bang+Mau+Buy+License+Crack ')
 		else:break
-if __name__=='__main__':Authkey();cetak(panel('[bold white]                                   Server [bold green]150 [bold white]User Online ',width=90,title=f"[[green] Arif-Sensei[/]]",padding=(0,2),style=f"bold red"));time.sleep(5)
+if __name__=='__main__':Authkey();cetak(panel('[bold white]                                   Server [bold green]150 [bold white]User Online ',width=90,title=f"[[green] Gerrad-Code[/]]",padding=(0,2),style=f"bold red"));time.sleep(5)
 class Require:
 	def __init__(A):A.info,A.ex={},{}
 	def data_graph(C,xxx):A=xxx;B={'av':re.search(_IK,str(A)).group(1),'__d':'www','__user':_E,'__a':_J,'__req':'h','__hs':re.search(_IL,str(A)).group(1),'dpr':'2','__ccg':'GOOD','__rev':re.search('{"consistency":{"rev":(\\d+)}',str(A)).group(1),'__s':'','__hsi':re.search(_IM,str(A)).group(1),'__dyn':'','__csr':'',_II:re.search('__comet_req=(\\d+)',str(A)).group(1),'fb_dtsg':re.search(_IN,str(A)).group(1),'jazoest':re.search('jazoest=(\\d+)',str(A)).group(1),'lsd':re.search(_x,str(A)).group(1),'__spin_r':re.search(_IO,str(A)).group(1),'__spin_b':'trunk','__spin_t':re.search(_IP,str(A)).group(1),_B1:_B2,_R:_IQ,_IJ:'true',_S:'6888165191230459'};return B
